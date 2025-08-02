@@ -38,7 +38,7 @@ Firewall_UI/
 
 ---
 
-🚀 Getting Started
+## 🚀 Getting Started
 
 To run this project locally:
 
@@ -56,6 +56,7 @@ To run this project locally:
 - Use the Live Server extension in VS Code, or
 
 - Serve with Python:
+  
    `python3 -m http.server`
 
 ---
