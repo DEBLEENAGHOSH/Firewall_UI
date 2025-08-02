@@ -20,16 +20,17 @@ A modern, responsive web interface to simulate monitoring and managing firewall 
 
 ## 📁 Project Structure
 
-
+```plaintext
 Firewall_UI/
-├── index.html          # Homepage
-├── dashboard.html      # Request summaries
-├── features.html       # Feature cards
-├── policies.html       # Policy control toggles
-├── contact.html        # Contact/info section
-├── style.css           # Dark theme and layout
-├── script.js           # UI interactivity
-└── README.md           # Project documentation
+├── index.html        # Homepage
+├── dashboard.html    # Request summaries
+├── features.html     # Feature cards
+├── policies.html     # Policy control toggles
+├── contact.html      # Contact/info section
+├── style.css         # Dark theme and layout
+├── script.js         # UI interactivity
+└── README.md         # Project documentation
+
 
 ---
 
@@ -52,6 +53,7 @@ To run this project locally:
 
 ---
 🧠 How It Works
+
 🔘 The Policies page includes toggles to visually enable/disable firewall settings.
 
 📈 The Dashboard displays mock request statistics.
