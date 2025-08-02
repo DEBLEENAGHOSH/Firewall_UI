@@ -39,12 +39,15 @@ Firewall_UI/
 ---
 
 🚀 Getting Started
+
 To run this project locally:
 
 1. Clone the repository:
+   
    `git clone https://github.com/DEBLEENAGHOSH/Firewall_UI.git`
 
 2. Navigate to the project folder:
+   
    `cd Firewall_UI`
 3. Open the app:
 
@@ -71,6 +74,7 @@ To run this project locally:
 ---
 
 🧱 Built With
+
 1.  HTML5 – Structure
 
 2.  CSS3 – Custom styling and theming
@@ -80,6 +84,7 @@ To run this project locally:
 ---
 
 🎯 Future Enhancements
+
 -  Integrate with a backend (Node.js, Flask, etc.)
 
 -  Add authentication for secure access
@@ -93,11 +98,13 @@ To run this project locally:
 ---
 
 🤝 Contributing
+
 Pull requests are welcome!
 
 ---
 
 📝 License
+
 This project is licensed under the `MIT License`.
 
 
