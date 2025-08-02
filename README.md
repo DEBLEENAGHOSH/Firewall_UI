@@ -22,14 +22,18 @@ A modern, responsive web interface to simulate monitoring and managing firewall 
 
 ```plaintext
 Firewall_UI/
-├── index.html        # Homepage
-├── dashboard.html    # Request summaries
-├── features.html     # Feature cards
-├── policies.html     # Policy control toggles
-├── contact.html      # Contact/info section
-├── style.css         # Dark theme and layout
-├── script.js         # UI interactivity
-└── README.md         # Project documentation
+├── index.html         # Homepage
+├── dashboard.html     # Request summaries
+├── features.html      # Feature cards
+├── policies.html      # Policy control toggles
+├── contact.html       # Contact/info section
+├── style.css          # Dark theme and layout
+├── script.js          # UI interactivity
+├── main.py            # Packet filtering logic using Scapy & pydivert
+├── app.py             # Flask web server for login and UI routing
+├── policies.json      # Stores rules for blocking/allowing traffic
+└── README.md          # Project documentation
+
 ```
 
 ---
