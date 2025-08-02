@@ -60,7 +60,7 @@ To run this project locally:
    `python3 -m http.server`
 
 ---
-🧠 How It Works
+## 🧠 How It Works
 
 🔘 The Policies page includes toggles to visually enable/disable firewall settings.
 
@@ -74,7 +74,7 @@ To run this project locally:
 
 ---
 
-🧱 Built With
+## 🧱 Built With
 
 1.  HTML5 – Structure
 
@@ -84,7 +84,7 @@ To run this project locally:
 
 ---
 
-🎯 Future Enhancements
+## 🎯 Future Enhancements
 
 -  Integrate with a backend (Node.js, Flask, etc.)
 
@@ -98,13 +98,13 @@ To run this project locally:
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome!
 
 ---
 
-📝 License
+## 📝 License
 
 This project is licensed under the `MIT License`.
 
