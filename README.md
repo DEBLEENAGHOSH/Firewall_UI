@@ -30,7 +30,7 @@ Firewall_UI/
 ├── style.css         # Dark theme and layout
 ├── script.js         # UI interactivity
 └── README.md         # Project documentation
-
+```
 
 ---
 
