@@ -6,15 +6,15 @@ A modern, responsive web interface to simulate monitoring and managing firewall 
 
 ## ✨ Features
 
-- 🔐 Toggle the **Firewall ON/OFF**
-- 🔧 Enable/Disable **TCP and UDP blocking**
-- 📊 View **request summaries** (Accepted, Denied, All)
-- 🖥️ Explore firewall features:
+-  Toggle the **Firewall ON/OFF**
+-  Enable/Disable **TCP and UDP blocking**
+-  View **request summaries** (Accepted, Denied, All)
+-  Explore firewall features:
   - Application-level firewall
   - Domain & IP blocking
   - Network usage monitoring
-- 📱 Responsive and accessible layout
-- 🌙 Dark-themed UI for a sleek experience
+-  Responsive and accessible layout
+-  Dark-themed UI for a sleek experience
 
 ---
 
@@ -62,13 +62,13 @@ To run this project locally:
 ---
 ## 🧠 How It Works
 
-🔘 The Policies page includes toggles to visually enable/disable firewall settings.
+- The Policies page includes toggles to visually enable/disable firewall settings.
 
-📈 The Dashboard displays mock request statistics.
+- The Dashboard displays mock request statistics.
 
-🧩 The Features page describes various firewall capabilities.
+- The Features page describes various firewall capabilities.
 
-🧭 The navbar allows easy navigation across sections.
+- The navbar allows easy navigation across sections.
 
 [This is a frontend-only simulation. No real firewall settings are being changed.]
 
